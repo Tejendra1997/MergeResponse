@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="JS-ModifyResponse" version="SHA-512:e220582db25a883c9319a14a5f6f546ca08246f9f4a385f8e5300ecc96b15af63e4b5bf7d4ce4b8aa93039380bef155a757074e8bfc6e9d73a5d0cb8131c1f19"/>
+        <VersionInfo resourceName="SC-1" version="SHA-512:b958292f674e22a9803ccaf045232c7f399e4614e445feb9b9eebeeda0cd5ee9bfb9c818e2b684a697201a2a90eb9af7996bcf844b651953a890823190f46633"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:0695e5231a92af4844bed0c7284c530a9839b8be3703d713df4a5e9fc9c9f1755cbf3fb8456027dd4fe1b65f34cec99c35873143aa2575840e4048c4f49ec7fb"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://ModifyResponse.js" version="SHA-512:3fbe10e6d0c8dafb79c989dd64331663e522855238d1111abca42e1e20db458293d743db29d886601f4f6a5d9d25737a57acd0692545465dcdf33d96a0ab4a13"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:706f82effa1168349b2cc1f320ff562a594cd078516b0490bb6aa5c2c6d476344cc504fa6ed9a98b345aed35094d9146d252783be4ffeeb899bb20b9ade1d4a7"/>
+    </TargetEndpoints>
+</Manifest>

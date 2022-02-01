@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="5" name="Merge_Response">
+    <Basepaths>/mersge_response</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1643723219191</CreatedAt>
+    <CreatedBy>tejandras@sidgs.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Mersge_Response</DisplayName>
+    <LastModifiedAt>1643723219191</LastModifiedAt>
+    <LastModifiedBy>tejandras@sidgs.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:1410a945b36b61c50561699810dfcd397c187039442517240e3165c250dbf22233544f1afd97e435881c17f547b557431ed6416ce8c812919eec1bd68db9101e</ManifestVersion>
+    <Policies>
+        <Policy>JS-ModifyResponse</Policy>
+        <Policy>SC-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://ModifyResponse.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
